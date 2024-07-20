@@ -70,6 +70,11 @@ El archivo `extractPorts.tmp` tendrá el siguiente formato:
 
 - **pbcopy**: Para macOS, `pbcopy` debería estar instalado por defecto. No requiere instalación adicional.
 
+- **bat**: Para sistemas basados en Linux, puedes instalarlo con:
+    ```bash
+    sudo apt-get install bat
+    ```
+
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias o mejoras para el script, por favor abre un *issue* o envía un *pull request*.
