@@ -1,6 +1,6 @@
 # extractPorts.sh
 
-`extractPorts.sh` es un script en Bash que extrae puertos abiertos de un archivo de salida de escaneo `nmap` en formato NMAP basado en el funcionamiento del script de S4vitar. El script formatea los resultados, los guarda en un archivo temporal, y copia los puertos al portapapeles para facilitar su uso.
+`extractPorts.sh` es un script en Bash que extrae puertos abiertos de un archivo de salida de escaneo `nmap` en formato NMAP basado en el funcionamiento del script de [S4vitar](https://github.com/s4vitar). El script formatea los resultados, los guarda en un archivo temporal, y copia los puertos al portapapeles para facilitar su uso.
 
 ## Características
 
