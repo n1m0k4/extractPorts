@@ -13,6 +13,7 @@
 
 - **nmap**: Debe estar instalado para generar el archivo de salida.
 - **xclip** o **pbcopy**: Necesario para copiar al portapapeles (dependiendo del sistema operativo).
+- **bat**: Necesario para visualizar el archivo temporal con una estética más agradable.
 
 ## Instalación
 
